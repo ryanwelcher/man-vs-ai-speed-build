@@ -10,5 +10,6 @@
 		<!-- Package tags are annoying-->
 		<exclude name="Squiz.Commenting.FileComment.MissingPackageTag"/>
 		<exclude name="Generic.Arrays.DisallowShortArraySyntax"/>
+		<exclude name="Squiz.Commenting.FileComment.WrongStyle"/>
 	</rule>
 </ruleset>
